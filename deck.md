@@ -1,30 +1,9 @@
-# Sustainable Pace, Agile, and The Big Design Refactor
+# Sustainable Pace, Agile, & The Big Design Refactor
 Balanced Team Conference, 2013
 
 Jonathan Berger, Pivotal Labs
 
 ---
-
-<!-- What it says on the tin:
-
-> The theme for this event is "How can we extend the concepts of Balanced Team into business beyond the product team?"
-
----
-
--->
-
-
-<!-- Courtney's ask -->
-<!--
-- how product strategy is integrated into lean startup and agile teams.
-- I think that the high level strategy and product vision can often be left out of the process when you are pushing toward an MVP.
-- Perhaps you guys have had some experience with this?
-- Do you have a technique or process that helps with this?
--->
-
-
----
-
 
 # 1. Sustainable Pace
 
