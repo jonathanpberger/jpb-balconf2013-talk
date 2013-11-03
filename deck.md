@@ -1,7 +1,54 @@
+# Hello world :-)
+
+---
+
 # Sustainable Pace, Agile, & The Big Design Refactor
-Balanced Team Conference, 2013
+Balanced Team Conference SF, 2013
 
 Jonathan Berger, Pivotal Labs
+
+---
+
+## Roll call
+
+---
+
+**Role call**
+
+---
+
+Who practices
+
+
+**Design?**
+
+---
+
+Who practices
+
+
+**Development?**
+
+---
+
+Who practices
+
+
+**Product?**
+
+---
+
+**What else?**
+
+---
+
+**This may look like a story about design**
+
+---
+
+**but it's really a story about rhythm**
+
+---
 
 ---
 
@@ -206,7 +253,9 @@ Then
 Development solutions
 
 **I.N.V.E.S.T., small pieces**
-<br />
+
+---
+
 Design solutions
 
 **Malleable, never done, holistic**
@@ -376,9 +425,14 @@ Then,
 
 ---
 
+***Balanced Teams should adopt sustainable pace as a value.***
+
 ---
 
-# Thank You.
+
+---
+
+# Thanks! :-)
 
 - @jonathanpberger on twitter, github, gmail, pivotallabs.com, everywhere.
 - slides at <http://jonathanpberger.com/talks>
